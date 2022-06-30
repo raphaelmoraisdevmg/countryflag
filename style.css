@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+button{
+    padding: 10px;
+    background-color: limegreen;
+    border-radius: 15px;
+}
+
+input{
+    padding: 5px;
+}
+.space{
+    margin: 5px;
+}
+#country_flag{
+    width:200px
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+}
+.form-box{
+    width: fit-content;
+    border: 5px solid black;
+}
+.country-card{
+    border: 5px solid black;
+    width: fit-content;
+    padding: 15px;
+    margin:50px;
+    display:flex;
+    flex-direction:column;
+}
