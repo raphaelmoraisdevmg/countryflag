@@ -1,6 +1,6 @@
 # About this project.
 
-This is a simple aplication that fetch a contry flag based in name on input 
+This is a simple application that fetch a country flag based in name on input
 <h2>Api</h2>
 <b>Link:https://restcountries.com/</b>
 <br>
